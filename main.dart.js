@@ -68117,13 +68117,13 @@ A.k9.prototype={
 H(a){var s=null,r=t.w,q=A.aO(a,s,r).w.a.a>=1200?s:A.rg(s,s,s,s,A.bb("My Projects",s,s,A.dx(s,s,B.h,s,s,s,s,s,s,s,s,s,s,s,B.S,s,s,!0,s,s,s,s,s,s,s,s),s)),p=t.p,o=A.a([],p)
 if(A.aO(a,s,r).w.a.a>=1200)o.push(A.c0(A.bT(s,s,B.n,s,s,s,s,s,s,s,s,s,s),2))
 if(A.aO(a,s,r).w.a.a>=1200)o.push(A.c0(new A.iY(s),7))
-return A.w3(q,A.id(A.ca(A.a([A.dg(o,B.z,B.A,B.r),A.c0(A.ca(A.a([A.c0(new A.ke(new A.mw(1,0.9400000000000001,s),new A.mw(1,1.5,s),new A.mw(1,1.2,s),new A.mw(1,1.7,s),s),1)],p),B.aj,B.A,B.r),1)],p),B.aj,B.ca,B.r),s,s),s)}}
+return A.w3(q,A.id(A.ca(A.a([A.dg(o,B.z,B.A,B.r),A.c0(A.ca(A.a([A.c0(new A.ke(new A.mw(1,0.9400000000000001,s),new A.mw(1,1.4,s),new A.mw(1,2.3,s),new A.mw(1,1.5,s),s),1)],p),B.aj,B.A,B.r),1)],p),B.aj,B.ca,B.r),s,s),s)}}
 A.mw.prototype={
 H(a){$.l2()
 return A.Dt(new A.mQ(this.c,20,20,this.d),new A.YK(),3,B.ar,null,B.aa,!1)}}
 A.YK.prototype={
 $2(a,b){var s,r,q=null,p=A.a([A.bb(B.f.i(b+1)+". "+$.l2()[b].a,q,q,A.U(a).p3.r.bR(B.a6),q),A.cV(q,10,q),new A.bA(B.zV,A.bb($.l2()[b].b,15,B.aG,A.U(a).p3.w.bR(B.h),q),q),A.cV(q,10,q),A.acu(A.bb("GitHub",q,q,A.U(a).p3.w.bR(B.a6),q),new A.YI(b))],t.p)
-if(A.aO(a,q,t.w).w.a.a>=1200){s=$.l2()[b].c.length
+if(!(A.aO(a,q,t.w).w.a.a<=500)){s=$.l2()[b].c.length
 r=q
 p.push(A.c0(new A.uo(new A.GW(new A.YJ(b),s,!0,!0,!0,q),q,B.b8,!1,q,q,r,!1,q,s,B.ax,B.id,q,B.ai,q),1))}return A.bT(q,A.ca(p,B.aj,B.A,B.r),B.n,q,q,q,q,q,q,new A.aw(20,20,20,20),q,q,q)},
 $S:49}
